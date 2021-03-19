@@ -1,0 +1,33 @@
+html{background-color:darkgray;}
+
+div #headdiv{color: darkslateblue;
+
+background-color:burlywood;
+}
+h1{
+    text-align: center;
+    
+}
+#divtofill{
+    margin-left: 300px;
+}
+
+label{
+    width: 200px;
+    display:inline-block;
+    
+    
+}
+input{
+   
+  display: inline-block;
+  width: 200px;
+  text-align: center;
+
+    
+
+
+}
+    
+
+
